@@ -1,3 +1,14 @@
 body {
+  background-color: #A96674;
+  background-image: url("https://i.imgur.com/hJjyzrt.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #000000;
   font-size: 18px;
+  font-family: 'Times New Roman', serif;
+}
+
+#link {
+  color: #FF0000;
 }
